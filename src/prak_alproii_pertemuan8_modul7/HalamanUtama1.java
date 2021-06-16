@@ -335,7 +335,7 @@ public class HalamanUtama1 extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(TabelJadwal);
 
-        jLabel9.setText("jembut");
+        jLabel9.setText("asw");
 
         jMenu1.setText("Tambah");
 

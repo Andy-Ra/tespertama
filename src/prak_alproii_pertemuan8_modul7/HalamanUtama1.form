@@ -460,7 +460,7 @@
     </Container>
     <Component class="javax.swing.JLabel" name="jLabel9">
       <Properties>
-        <Property name="text" type="java.lang.String" value="jembut"/>
+        <Property name="text" type="java.lang.String" value="asw"/>
       </Properties>
     </Component>
   </SubComponents>
